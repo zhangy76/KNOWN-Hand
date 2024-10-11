@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# KNOWN-Hand
-Code repository for Weakly-Supervised 3D Hand Reconstruction with Knowledge Prior and Uncertainty Guidance
-=======
 # **Weakly-Supervised 3D Hand Reconstruction with Knowledge Prior and Uncertainty Guidance** <br />
   [Yufei Zhang](https://zhangy76.github.io/), Jeffrey O. Kephart, Qiang Ji <br /> 
   ECCV2024, [arXiv](https://arxiv.org/abs/2407.12307) <br />
@@ -49,4 +45,4 @@ If you have questions or encouter any issues when running the code, feel free to
 
 ## References
 The MANO model data is downloaded from [MANO model](https://mano.is.tue.mpg.de/). We thank them for generously sharing their outstanding work.
->>>>>>> c25e009 (upload)
+
