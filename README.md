@@ -27,7 +27,7 @@ python demo_video.py --video_path 'path to a testing video'
 
 
 ## Knowledge Prior
-You can find the pose loss derived from hand biomechanics and functional anatomy knowledge in ```losses.py```.
+You can find the pose loss derived from hand biomechanics and functional anatomy knowledge in ```losses.py```. To compute the non-penetration loss, please download the corresponding data and functions from [physicsloss](https://www.dropbox.com/scl/fo/ne0jz6ycv8ncf4zb2w2wp/AAAn8ByyloB8J6_w6DBrutQ?rlkey=epglb24z0a5ro7bnsbl123sjl&dl=0). 
 
 
 ## Citation
