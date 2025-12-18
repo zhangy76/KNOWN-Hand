@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 
 ## Model and Data Download
-Please download the required data and trained model [assets](https://www.dropbox.com/scl/fo/i1hcyituupidft9ythj0m/AF5DFK8NurBFNBkFC4oMswg?rlkey=ag7htv1a2eycwpkqva5r9vpqr&dl=0) and directly overwrite the ./assets folder in the current directory. 
+Please download the required data and trained model [assets](https://www.dropbox.com/scl/fo/i1hcyituupidft9ythj0m/AF5DFK8NurBFNBkFC4oMswg?rlkey=ag7htv1a2eycwpkqva5r9vpqr&dl=0) (due to license restrictions, please download the MANO model ./assets/processed_MANO_LEFT.pkl and ./assets/processed_MANO_RIGHT.pkl from the [official website](https://mano.is.tue.mpg.de/)) and directly overwrite the ./assets folder in the current directory. 
 
 
 ## Demo
